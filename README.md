@@ -9,3 +9,5 @@ Platforms & Languages
 Tools
 
 <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Svn-7994be?style=flat-square&logo=Subversion&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangseungho&show_icons=true&theme=radical)
