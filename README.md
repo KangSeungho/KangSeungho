@@ -8,6 +8,6 @@ Platforms & Languages
 
 Tools
 
-<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Svn-7994be?style=flat-square&logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-7994be?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-7994be?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-7994be?style=flat-square&logo=Swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Svn-7994be?style=flat-square&logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangseungho&show_icons=true&theme=radical)
